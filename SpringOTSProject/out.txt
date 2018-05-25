@@ -1,0 +1,8 @@
+code	surname	name	afm	bank	
+1	vwsaZK9dRAP0fXAY5RVeuw==	ds1mk4l8p31aHG3AS/PBmQ==	103222011	R4dzpznt+8YOAiaWyrHkOA==	
+2	KJS/ghJ7fqCoF9mqUn3skA==	edZAYOe978YW7VS+6oRCKw==	103222012	R4dzpznt+8YOAiaWyrHkOA==	
+3	hYNaNEBJKyRwn7LFysrlfQ==	Sm84J4/hkOuD3loHYV9O7w==	103222013	R4dzpznt+8YOAiaWyrHkOA==	
+4	br3tCBe+nd6dI1Wt00DkyA==	8xyMjsbp8hD8sjaKhXCNhw==	103222014	Q6SDTH/YNytIpqYXu5QRUA==	
+5	Lc5jZPWtTEGp8tPBBS+IeQ==	RDIdF4Bh/5360PGuyilGDw==	103222015	R4dzpznt+8YOAiaWyrHkOA==	
+6	fUfg0KmxAItauEoVl31LdQ==	TZrW8vUPgbG0PQXekUFS6w==	103222016	R4dzpznt+8YOAiaWyrHkOA==	
+7	ufjU/ON1Gwc8Yx4e8wnSXQ==	1I/jHCYXeUsQKP3l9GZ+ow==	103222017	R4dzpznt+8YOAiaWyrHkOA==	
