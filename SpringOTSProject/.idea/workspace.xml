@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7403fc98-3e53-46a2-8ae2-7bf985881b70" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/nikontem/AnonymizerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikontem/Anonymizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikontem/Anonymizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikontem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikontem/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +18,8 @@
       <file leaf-file-name="Anonymizer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikontem/Anonymizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnonymizerConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnonymizerConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikontem/AnonymizerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -49,14 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nikontem/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -91,8 +89,6 @@
         <option value="$PROJECT_DIR$/src/com/nikontem/TypeCheck.java" />
         <option value="$PROJECT_DIR$/src/com/nikontem/DocFactory.java" />
         <option value="$PROJECT_DIR$/src/com/nikontem/AnonymizeData.java" />
-        <option value="$PROJECT_DIR$/src/com/nikontem/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/nikontem/Anonymizer.java" />
         <option value="$PROJECT_DIR$/src/com/nikontem/EncryptionFactory.java" />
         <option value="$PROJECT_DIR$/src/com/nikontem/TxtWriter.java" />
         <option value="$PROJECT_DIR$/src/com/nikontem/ParseDataTxt.java" />
@@ -100,6 +96,8 @@
         <option value="$PROJECT_DIR$/src/com/nikontem/AESEncryption.java" />
         <option value="$PROJECT_DIR$/src/com/nikontem/Encryptor.java" />
         <option value="$PROJECT_DIR$/src/com/nikontem/AnonymizerConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/nikontem/Anonymizer.java" />
+        <option value="$PROJECT_DIR$/src/com/nikontem/Main.java" />
       </list>
     </option>
   </component>
@@ -219,12 +217,12 @@
       <workItem from="1526883205571" duration="617000" />
       <workItem from="1527231614417" duration="8581000" />
       <workItem from="1527242876423" duration="7000" />
-      <workItem from="1527242902646" duration="1631000" />
+      <workItem from="1527242902646" duration="2227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167589000" />
+    <option name="totallyTimeSpent" value="168185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -536,16 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikontem/Anonymizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JavaScript-modules-diagram/D:/Users/Me/Documents/Git/OtsProject/SpringFE/SpringOTSProject">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -573,10 +561,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikontem/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nikontem/Anonymizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -592,6 +580,13 @@
             <element signature="e#228#229#0" expanded="true" />
             <element signature="e#266#267#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikontem/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

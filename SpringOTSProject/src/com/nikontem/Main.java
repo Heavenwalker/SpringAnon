@@ -1,24 +1,22 @@
 package com.nikontem;
 
 
-import java.io.IOException;
-import java.util.*;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+
 
 public class Main {
 
-    public static void main(String[] args) throws IOException {
-        List<String[]> configFields = new ArrayList<>();
-        List<String[]> dataFields = new ArrayList<>();
-        String encryptMethod;
-        ReadInput readInput = new ReadInput();
+    public static void main(String[] args) {
 
-        Anonymizer anonymizer;
+        AnnotationConfigApplicationContext anonymizing = new AnnotationConfigApplicationContext(AnonymizerConfig.class);
 
-        configFields = readInput.specifyConfigFile();
-        dataFields = readInput.specifyDataFile();
-        encryptMethod = readInput.encryptionType();
-        anonymizer = new Anonymizer(configFields, dataFields, encryptMethod);
+        Anonymizer anonymizer = anonymizing.getBean("anonymizer",Anonymizer.class);
+
         anonymizer.Anonymizer();
+
+        anonymizing.close();
+
 
     }
 }

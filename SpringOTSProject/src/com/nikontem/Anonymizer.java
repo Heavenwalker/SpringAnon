@@ -7,6 +7,8 @@ import java.util.List;
 import java.util.Map;
 
 public class Anonymizer {
+
+
     List<String[]> configFields = new ArrayList<>();
     List<String[]> dataFields = new ArrayList<>();
     String encryptMethod;
